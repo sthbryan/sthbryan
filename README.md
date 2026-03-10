@@ -1,30 +1,51 @@
 <h1 align="center">Hey there 👋, Bryan here!</h1>
 <h3 align="center">Lover of Mobile & Web Development 🌀</h3>
+<p align="center"><em>Imma build an empire, one repo at a time.</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deadbryam&label=Profile%20views&color=0e75b6&style=flat" alt="deadbryam" /> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [Ábaco Capital](https://abacocapital.co/)
+[![Portfolio](https://img.shields.io/badge/justcallmebryan.com-000000?style=flat-square&logo=safari&logoColor=white)](http://justcallmebryan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthbryan)
+![Profile views](https://komarev.com/ghpvc/?username=deadbryam&style=flat-square&color=0e75b6)
 
-- 🌱 I’m currently learning **GO, Elixir, LenisJS & Unity**
+</div>
 
-- 👯 I’m looking to collaborate on **anything exciting and fun!**
+---
 
-- 👨🏻‍💻 I’m currently working with **NextJS & Flutter**
+Working at **[Ábaco Capital](https://abacocapital.co/)** with **React** and **Next.js**. I love building things that solve real problems — open to freelance and collaborating on projects that sound fun or interesting.
 
-- 👨‍💻 All of my projects are available at [justcallmebryan.com](http://justcallmebryan.com/)
+In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** and **Unity**. Want to learn **Rust** someday. And yes — I'm genuinely afraid of cows.
 
-- 💬 Ask me about **Flutter or JS**
+---
 
-- ⚡ Fun fact **I'm afraid of cows**
+#### Next on the list
 
-<h3 align="left">Connect with me:</h3>
+[rwsdk](https://rwsdk.com) · [Elixir](https://elixir-lang.org) · [GSD 2.0](https://x.com/gsd_foundation) · [Charm stack](https://charm.land/libs/) · [LenisJS](https://lenis.darkroom.engineering) · [Zeroclaw](https://zeroclaw.org/) · [Ease](https://www.ease.dev/)
+
+---
+
+## Side Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Local LLM Benchmark**](https://github.com/DeadBryam/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
+| [**Gitmoji Skill**](https://github.com/DeadBryam/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
+| [**Weather Info API**](https://github.com/DeadBryam/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
+| [**Flutter Mason Bricks**](https://github.com/DeadBryam/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
+
+---
+
+## Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/sthbryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sthbryan" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,go,nodejs,postgres,mongodb,firebase,docker,figma,git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadbryam&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="deadbryam" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadbryam&show_icons=true&theme=tokyonight&locale=en" alt="deadbryam" /></p>
+<img height="150" src="https://streak-stats.demolab.com?user=deadbryam&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deadbryam&theme=tokyonight" />
+
+</div>
