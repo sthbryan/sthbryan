@@ -1,6 +1,7 @@
 <h1 align="center">Hey there 👋, Bryan here!</h1>
 <h3 align="center">Lover of Mobile & Web Development 🌀</h3>
 <p align="center"><em>Imma build an empire, one repo at a time.</em></p>
+<p align="center">Previously <a href="https://github.com/deadbryam">@deadbryam</a></p>
 
 <div align="center">
 
