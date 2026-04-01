@@ -30,6 +30,7 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 | Project | Description | Stack |
 |---|---|---|
 | [**Vaulty**](https://github.com/DeadBryam/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
+| [**EasyPass**](https://github.com/sthbryan/easy-pass) | CLI to create and manage passwords easily | Go |
 | [**FTM**](https://github.com/DeadBryam/ftm) | Tunnel manager for Foundry VTT — TUI, web dashboard & desktop app, no port forwarding needed | Go · Svelte |
 | [**Local LLM Benchmark**](https://github.com/DeadBryam/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
 | [**Gitmoji Skill**](https://github.com/DeadBryam/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
