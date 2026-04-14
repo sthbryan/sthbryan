@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/justcallmebryan.com-000000?style=flat&logo=safari&logoColor=white)](http://justcallmebryan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthbryan)
-![Profile views](https://komarev.com/ghpvc/?username=deadbryam&style=flat&color=0e75b6)
+![Profile views](https://komarev.com/ghpvc/?username=sthbryan&style=flat&color=0e75b6)
 [![committers.top badge](https://user-badge.committers.top/el_salvador/sthbryan.svg)](https://committers.top/el_salvador)
 
 </div>
@@ -30,13 +30,13 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Vaulty**](https://github.com/DeadBryam/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
+| [**Vaulty**](https://github.com/sthbryan/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
 | [**EasyPass**](https://github.com/sthbryan/easy-pass) | CLI to create and manage passwords easily | Go |
-| [**FTM**](https://github.com/DeadBryam/ftm) | Tunnel manager for Foundry VTT — TUI, web dashboard & desktop app, no port forwarding needed | Go · Svelte |
-| [**Local LLM Benchmark**](https://github.com/DeadBryam/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
-| [**Gitmoji Skill**](https://github.com/DeadBryam/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
-| [**Weather Info API**](https://github.com/DeadBryam/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
-| [**Flutter Mason Bricks**](https://github.com/DeadBryam/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
+| [**FTM**](https://github.com/sthbryan/ftm) | Tunnel manager for Foundry VTT — TUI, web dashboard & desktop app, no port forwarding needed | Go · Svelte |
+| [**Local LLM Benchmark**](https://github.com/sthbryan/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
+| [**Gitmoji Skill**](https://github.com/sthbryan/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
+| [**Weather Info API**](https://github.com/sthbryan/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
+| [**Flutter Mason Bricks**](https://github.com/sthbryan/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
 
 ---
 
@@ -50,7 +50,7 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 <div align="center">
 
-<img height="150" src="https://streak-stats.demolab.com?user=deadbryam&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deadbryam&theme=tokyonight" />
+<img height="150" src="https://streak-stats.demolab.com?user=sthbryan&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sthbryan&theme=tokyonight" />
 
 </div>
