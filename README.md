@@ -5,9 +5,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/justcallmebryan.com-000000?style=flat-square&logo=safari&logoColor=white)](http://justcallmebryan.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthbryan)
-![Profile views](https://komarev.com/ghpvc/?username=deadbryam&style=flat-square&color=0e75b6)
+[![Portfolio](https://img.shields.io/badge/justcallmebryan.com-000000?style=flat&logo=safari&logoColor=white)](http://justcallmebryan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthbryan)
+![Profile views](https://komarev.com/ghpvc/?username=deadbryam&style=flat&color=0e75b6)
+[![committers.top badge](https://user-badge.committers.top/el_salvador/sthbryan.svg)](https://committers.top/el_salvador)
 
 </div>
 
