@@ -37,6 +37,8 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 | [**Gitmoji Skill**](https://github.com/sthbryan/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
 | [**Weather Info API**](https://github.com/sthbryan/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
 | [**Flutter Mason Bricks**](https://github.com/sthbryan/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
+| [**obscura-mcp-server**](https://github.com/sthbryan/obscura-mcp-server) | MCP server to control Obscura headless browser for web search in AI agents | TypeScript |
+| [**web-search-mcp**](https://github.com/sthbryan/web-search-mcp-server) | Minimalist MCP server for web search using only native Fetch API | TypeScript |
 
 ---
 
