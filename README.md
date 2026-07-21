@@ -30,15 +30,17 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Vaulty**](https://github.com/sthbryan/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
-| [**EasyPass**](https://github.com/sthbryan/easy-pass) | CLI to create and manage passwords easily | Go |
 | [**FTM**](https://github.com/sthbryan/ftm) | Tunnel manager for Foundry VTT — TUI, web dashboard & desktop app, no port forwarding needed | Go · Svelte |
+| [**Vaulty**](https://github.com/sthbryan/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
+| [**Fizza**](https://github.com/sthbryan/fizza) | Local kanban for humans and coding agents — one binary, SQLite, Web UI + CLI + MCP | Go · Svelte |
+| [**EasyPass**](https://github.com/sthbryan/easy-pass) | CLI to create and manage passwords easily | Go |
 | [**Local LLM Benchmark**](https://github.com/sthbryan/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
 | [**Gitmoji Skill**](https://github.com/sthbryan/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
 | [**Weather Info API**](https://github.com/sthbryan/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
 | [**Flutter Mason Bricks**](https://github.com/sthbryan/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
 | [**obscura-mcp-server**](https://github.com/sthbryan/obscura-mcp-server) | MCP server to control Obscura headless browser for web search in AI agents | TypeScript |
 | [**web-search-mcp**](https://github.com/sthbryan/web-search-mcp-server) | Minimalist MCP server for web search using only native Fetch API | TypeScript |
+| [**browser-mcp**](https://github.com/sthbryan/browser-mcp) | MCP server for real browser automation — Puppeteer + stealth, system browsers first | TypeScript |
 
 ---
 
