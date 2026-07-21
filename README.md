@@ -22,7 +22,7 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 #### Next on the list
 
-[rwsdk](https://rwsdk.com) · [Elixir](https://elixir-lang.org) · [GSD 2.0](https://x.com/gsd_foundation) · [Charm stack](https://charm.land/libs/) · [LenisJS](https://lenis.darkroom.engineering) · [Zeroclaw](https://zeroclaw.org/) · [Ease](https://www.ease.dev/)
+[rwsdk](https://rwsdk.com) · [Elixir](https://elixir-lang.org) · [Charm stack](https://charm.land/libs/) · [LenisJS](https://lenis.darkroom.engineering) · [Ease](https://www.ease.dev/)
 
 ---
 
