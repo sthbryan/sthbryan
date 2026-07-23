@@ -30,18 +30,18 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 | Project | Description | Stack |
 |---|---|---|
-| [**FTM**](https://github.com/sthbryan/ftm) | Tunnel manager for Foundry VTT — TUI, web dashboard & desktop app, no port forwarding needed | Go · Svelte |
-| [**Vaulty**](https://github.com/sthbryan/vaulty) | CLI to manage env vars and SSH keys encrypted and synced with GitHub | Go |
-| [**Fizza**](https://github.com/sthbryan/fizza) | Local kanban for humans and coding agents — one binary, SQLite, Web UI + CLI + MCP | Go · Svelte |
-| [**EasyPass**](https://github.com/sthbryan/easy-pass) | CLI to create and manage passwords easily | Go |
-| [**Local LLM Benchmark**](https://github.com/sthbryan/Local-LLM-Bechmark) | CLI tool to compare local LLM performance across coding tasks | TypeScript · Bun |
-| [**Gitmoji Skill**](https://github.com/sthbryan/gitmoji-skill) | AI agent skill for semantic, emoji-driven git commits | Python |
-| [**Weather Info API**](https://github.com/sthbryan/weather-info-api) | Lightweight weather API with forecasts, moon phase & custom templates | TypeScript · Deno |
-| [**Flutter Mason Bricks**](https://github.com/sthbryan/flutter_mason_bricks) | Mason bricks to scaffold Flutter apps with GetX layer-first architecture | Dart |
-| [**obscura-mcp-server**](https://github.com/sthbryan/obscura-mcp-server) | MCP server to control Obscura headless browser for web search in AI agents | TypeScript |
-| [**web-search-mcp**](https://github.com/sthbryan/web-search-mcp-server) | Minimalist MCP server for web search using only native Fetch API | TypeScript |
-| [**browser-mcp**](https://github.com/sthbryan/browser-mcp) | MCP server for real browser automation — Puppeteer + stealth, system browsers first | TypeScript |
-
+| [**FTM**](https://github.com/sthbryan/ftm) | Tunnel manager for Foundry VTT, so your players connect without touching port forwarding. TUI, web dashboard, and desktop app | Go · Svelte |
+| [**Vaulty**](https://github.com/sthbryan/vaulty) | Keeps your env vars and SSH keys encrypted and synced through GitHub | Go |
+| [**Fizza**](https://github.com/sthbryan/fizza) | A local kanban board for you and your coding agents. One binary, one SQLite database, three ways in: web, CLI, MCP | Go · Svelte |
+| [**Curie**](https://github.com/sthbryan/curie) | A desktop app that shows which agent skills you have installed and which tools use them, no terminal required | React · Tauri |
+| [**EasyPass**](https://github.com/sthbryan/easy-pass) | Create and manage passwords without leaving the terminal | Go |
+| [**Local LLM Benchmark**](https://github.com/sthbryan/Local-LLM-Bechmark) | Compares how local LLMs perform on coding tasks | TypeScript · Bun |
+| [**Gitmoji Skill**](https://github.com/sthbryan/gitmoji-skill) | Teaches AI agents to write semantic, emoji-driven git commits | Python |
+| [**Weather Info API**](https://github.com/sthbryan/weather-info-api) | A lightweight weather API with forecasts, moon phase, and custom templates | TypeScript · Deno |
+| [**Flutter Mason Bricks**](https://github.com/sthbryan/flutter_mason_bricks) | Mason bricks for scaffolding Flutter apps with a GetX layer-first architecture | Dart |
+| [**obscura-mcp-server**](https://github.com/sthbryan/obscura-mcp-server) | MCP server that drives a headless browser so AI agents can search the web | TypeScript |
+| [**web-search-mcp**](https://github.com/sthbryan/web-search-mcp-server) | A minimalist MCP server for web search, built on nothing but the native Fetch API | TypeScript |
+| [**browser-mcp**](https://github.com/sthbryan/browser-mcp) | MCP server for real browser automation, Puppeteer plus stealth, favoring the browsers already on your system | TypeScript |
 ---
 
 ## Stack
