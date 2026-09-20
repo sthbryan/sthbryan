@@ -28,8 +28,13 @@ In my free time I'm experimenting with **Go**, **Elysia**, **Deno**, **Solid** a
 
 ## Side Projects
 
+Aquí está, sin em-dashes:
+
 | Project | Description | Stack |
 |---|---|---|
+| [**GiGi**](https://github.com/Zovaris/GiGi) | Keeps your Mac awake and looking busy: menu bar app + CLI for scheduled display assertions and cursor movements | Swift |
+| [**Pulso**](https://github.com/Zovaris/Pulso) | Detects your project's scripts (npm, Make, Cargo, etc.) and lets you run, stop, or restart them from the macOS menu bar with logs and port detection | Rust · React · Tauri |
+| [**Asterism**](https://github.com/sthbryan/Asterism) | Tracks stars, forks, and release downloads for the repos you pick, using `gh` under the hood | Rust · React · Tauri |
 | [**FTM**](https://github.com/sthbryan/ftm) | Tunnel manager for Foundry VTT, so your players connect without touching port forwarding. TUI, web dashboard, and desktop app | Go · Svelte |
 | [**Vaulty**](https://github.com/sthbryan/vaulty) | Keeps your env vars and SSH keys encrypted and synced through GitHub | Go |
 | [**Fizza**](https://github.com/sthbryan/fizza) | A local kanban board for you and your coding agents. One binary, one SQLite database, three ways in: web, CLI, MCP | Go · Svelte |
